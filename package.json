@@ -1,0 +1,28 @@
+{
+  "name": "portafolio",
+  "version": "1.0.0",
+  "description": "Mi Portafolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metallivan/portafolio.git"
+  },
+  "keywords": [
+    "portafolio",
+    "javascript",
+    "html",
+    "css",
+    "curriculum",
+    "vitae",
+    "web"
+  ],
+  "author": "Iván Hernández C. <iva.hernandez.con@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/metallivan/portafolio/issues"
+  },
+  "homepage": "https://github.com/metallivan/portafolio#readme"
+}
